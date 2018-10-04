@@ -2,12 +2,12 @@
 
 
 [[projects]]
-  digest = "1:5849d8fb74a3464195e7fb187ea0d2bfb85731172e37f17726f24fd6919a9f8e"
+  digest = "1:b5115aafb8d03aab3ed586ed9c612d52c14d00174c690db06f4d56e5c4cfdc09"
   name = "cloud.google.com/go"
   packages = ["compute/metadata"]
   pruneopts = "T"
-  revision = "97efc2c9ffd9fe8ef47f7f3203dc60bbca547374"
-  version = "v0.28.0"
+  revision = "6cb29e61d96723a38dcac44d4c15c36744d96d07"
+  version = "v0.29.0"
 
 [[projects]]
   digest = "1:9f42202ac457c462ad8bb9642806d275af9ab4850cf0b1960b9c6f083d4a309a"
@@ -405,7 +405,7 @@
 
 [[projects]]
   branch = "master"
-  digest = "1:b532962365df3c36d313cb4a9c0551523b1ed562b9e5736780577b02835086f7"
+  digest = "1:290e30a9d7fab578bcfc331cc358109c38616439a5f26b390fe3e4679983397d"
   name = "golang.org/x/oauth2"
   packages = [
     ".",
@@ -415,18 +415,18 @@
     "jwt",
   ]
   pruneopts = "T"
-  revision = "d2e6202438beef2727060aa7cabdd924d92ebfd9"
+  revision = "c57b0facaced709681d9f90397429b9430a74754"
 
 [[projects]]
   branch = "master"
-  digest = "1:0623e21a3cd012fa66cbdf084324300ed85f746e24f92ebe002559facfc02bef"
+  digest = "1:5cc4f82ba12b3acad172113c1510bee3913ee6b197540a63c8d03e993d046c55"
   name = "golang.org/x/sys"
   packages = [
     "unix",
     "windows",
   ]
   pruneopts = "T"
-  revision = "e4b3c5e9061176387e7cea65e4dc5853801f3fb7"
+  revision = "af653ce8b74f808d092db8ca9741fbb63d2a469d"
 
 [[projects]]
   digest = "1:6164911cb5e94e8d8d5131d646613ff82c14f5a8ce869de2f6d80d9889df8c5a"
@@ -473,7 +473,7 @@
 
 [[projects]]
   branch = "master"
-  digest = "1:1dbe58cb249d06ac7641b591976dc8c6d1ea160e1d1a7cbcb6e84fcbf602850f"
+  digest = "1:9fa41c0e514dc9403a9660c95f781ac5fb8f825758bb9317a0679790306baeb3"
   name = "golang.org/x/tools"
   packages = [
     "go/ast/astutil",
@@ -481,7 +481,7 @@
     "internal/fastwalk",
   ]
   pruneopts = "T"
-  revision = "2f84ea8ef8720b418a1414ed610df828e1db1b3b"
+  revision = "1f2a8f46bd66722a69f1649231de9bf0635eb085"
 
 [[projects]]
   digest = "1:193075fba81bbed6bbb7909249582de60770f5e67ed1c9321f4eeb2d9b56c7a4"
